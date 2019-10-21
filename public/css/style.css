@@ -18,7 +18,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #ffffff url(/images/clock.png);
+    background: #fff url(https://firebasestorage.googleapis.com/v0/b/mydocs-9999.appspot.com/o/clock.png?alt=media&token=23d69610-c51e-45a1-832f-f0458737f867);
     background-size: cover;
     border-radius: 10%;
     border: 20px solid #fff;
